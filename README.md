@@ -1,7 +1,8 @@
 # Hello, Friend 🤡
 ## I'm the Mr.Robot wannabe. 
-Thanks for visiting my github profile, hope you love my contributions ❤️
-Looking for:
+Thanks for visiting my github profile, hope you love my contributions ❤️  
+
+#### Looking for:
 - [My personal timeline, portfolio and blog 💻 ?](https://wannabemrrobot.web.app)
 - [My notes and journal on security 🔐 ?](https://github.com/wannabemrrobot/knowledge-base)
 - [Cool Task management app with whitenoise 🍁 🎼 ?](https://github.com/wannabemrrobot/panda101-todoapp)
