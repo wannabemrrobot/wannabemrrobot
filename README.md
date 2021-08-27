@@ -1,5 +1,8 @@
 # Hello, Friend 🤡
 ## I'm the Mr.Robot wannabe. 
+---
+:information_source: If a repository is empty, it means am building something :)
+---
 Thanks for visiting my github profile, hope you love my contributions ❤️  
 
 #### Looking for:
